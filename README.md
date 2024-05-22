@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @dlakk
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning backend dev
-- 💞️ I’m looking to collaborate on projects
+- 👋 Hi, I’m Alvyn
+- 👀 Just doing this and that, you know!
+  
   
 
 <!---
